@@ -5,9 +5,9 @@ Aplicación móvil que conecta a un importador de ovas de trucha desde España c
 Proyecto integrador · Programación Móvil (DS4AC1-313) · Período 2026-II · Entrega 1
 
 ## Integrantes
-- Nombre del integrante 1
-- Nombre del integrante 2
-- Nombre del integrante 3
+- Bryan Carrion
+- Marlon Moreno
+- Paul Quishpe
 
 ## Pantallas
 1. **Inicio:** banner, resumen y accesos rápidos.
